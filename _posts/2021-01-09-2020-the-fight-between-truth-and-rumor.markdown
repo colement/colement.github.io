@@ -2,7 +2,7 @@
 layout: post
 title:  "2020真相与谣言的交锋"
 date:   2021-01-09 09:58:49 +0000
-categories: jekyll update
+categories: truth
 ---
 
 过去的一年里，因为疫情也因为移动互联网的发展，真相与谣言的较量似乎达到了历史高峰。
